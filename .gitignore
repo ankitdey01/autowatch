@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native build outputs
+android/
+ios/
+android/.gradle/
+android/.kotlin/
+android/app/.cxx/
+android/app/build/
+android/build/
+android/local.properties
+ios/build/
+
+# Native secrets and signing
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.pem
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+
+# Metro and caches
+.metro-health-check*
+.turbo/
+.cache/
+.parcel-cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Alternate package manager lockfiles
+bun.lock

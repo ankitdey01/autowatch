@@ -56,36 +56,6 @@ npm run ios
 npm run web
 ```
 
-## What to commit
-
-Commit these project files and folders:
-
-- `app/`
-- `assets/`
-- `components/`
-- `lib/`
-- `app.json`
-- `babel.config.js`
-- `components.json`
-- `global.css`
-- `metro.config.js`
-- `nativewind-env.d.ts`
-- `package.json`
-- `package-lock.json`
-- `tailwind.config.js`
-- `tsconfig.json`
-- `.gitignore`
-- `.npmrc`
-- `.prettierrc`
-- `README.md`
-
-Optional:
-
-- `screenshots/` if you want GitHub visitors to see the app
-- `bun.lock` only if you plan to use Bun as the package manager
-
-Do not commit generated folders such as `node_modules/`, `.expo/`, build outputs, local logs, or native build caches.
-
 ## Notes
 
 This app includes microphone and speech-recognition permission text in `app.json` for voice commands.

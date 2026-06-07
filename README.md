@@ -2,6 +2,8 @@
 
 Autowatch is a tiny Expo app I vibecoded in a day to make gym planks easier to time. It is a high-contrast stopwatch with an optional voice-controlled auto mode, so you can say "start" and "stop" without reaching for your phone mid-set.
 
+<img src="screenshots/screenshot-studio-1780745736783.png" alt="Autowatch app screenshot" width="320" />
+
 ## What it does
 
 - Large, readable plank timer
